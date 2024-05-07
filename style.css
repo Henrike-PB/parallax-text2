@@ -123,7 +123,12 @@ section.modulo.parallax-3{
         font-size: 1em;
     }
 
-   
+   .container{
+        width: 95%;
+        margin: auto;
+   }
+
+
 
      section.modulo.parallax h1 {
         color: #f0f8ff;
